@@ -1,6 +1,4 @@
-Here's a sample README file for your software testing project using JUnit and Selenium WebDriver for testing a web page for the author role:
 
----
 
 # Software Testing Project for Author Role
 
