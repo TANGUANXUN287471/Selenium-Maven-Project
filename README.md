@@ -16,8 +16,6 @@ This project involves automated testing of a web page for the author role using 
   - [CMS_11_UploadCameraReadyForm](#cms_11_uploadcamerareadyform)
   - [CMS_12_UpdatePaymentDetails](#cms_12_updatepaymentdetails)
   - [CMS_13_AddCoAuthors](#cms_13_addcoauthors)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
